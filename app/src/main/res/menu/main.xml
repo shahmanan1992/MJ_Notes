@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item
+
+        android:id="@+id/app_create"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_content_add"
+        android:title="@string/app_create"
+         />
+
+</menu>
